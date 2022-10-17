@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Sheng Mai (麦晟), I just finished my Msc Cognitive Neuroscience at University College London and supervised by Prof [Sarah Garfinkel](https://www.ucl.ac.uk/icn/sarah-garfinkel)
+My name is Sheng Mai (麦晟), I just finished my Msc Cognitive Neuroscience at University College London and supervised by Prof [Sarah Garfinkel](https://www.ucl.ac.uk/icn/sarah-garfinkel). I am looking for A Phd position in Neuroscience at UK or USA.
 
 ## Education 
 
@@ -34,7 +34,7 @@ CIE A-level: Mathematics (A*), Psychology (b), Self-taught, China
 <center>
  <iframe width="560" 
          height="315" 
-         src="[YOUTUBE_LINK](https://www.youtube.com/embed/LXbxsOTjcqo)" 
+         src="https://www.youtube.com/embed/LXbxsOTjcqo" 
          title="Why do people addict to loot box ?" 
          frameborder="0" 
          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
