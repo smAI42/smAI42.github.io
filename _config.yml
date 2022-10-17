@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yinghao Zhang"
+title                    : "Sheng Mai"
 title_separator          : "-"
-name                     : &name "Yinghao Zhang"
+name                     : &name "Sheng Mai"
 description              : &description "a doctoral candidate at Harbin Institute of Technology, Harbin, China."
-url                      : https://yhao-z.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://smAI42.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yhao-z/yhao-z.github.io"
+repository               : "smAI42/smAI42.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yinghao Zhang"
+  name             : "Sheng Mai"
   avatar           : "half body.jpg"
   bio              : "Ph.D candidate, Harbin Institute of Technology."
   location         : "Harbin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FV52htsAAAAJ&hl=zh-CN"
-  email            : "yhao-zhang@stu.hit.edu.cn"
+  email            : "ucjus56@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
