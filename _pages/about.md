@@ -32,14 +32,9 @@ CIE A-level: Mathematics (A*), Psychology (b), Self-taught, China
  It is part of my courswork during my master at UCL.
  
 <center>
- <iframe width="560" 
-         height="315" 
-         src="https://www.youtube.com/embed/LXbxsOTjcqo" 
-         title="Why do people addict to loot box ?" 
-         frameborder="0" 
-         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen>
- </iframe>
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LXbxsOTjcqo" title="Why do people addict to loot box ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 </center>
 
 ## Research Experience
