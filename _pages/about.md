@@ -8,32 +8,65 @@ redirect_from:
   - /about.html
 ---
 
-Yinghao Zhang is currently a doctoral candidate at Harbin Institute of Technology, Harbin, China.  His research interests lie in image reconstruction, MR image reconstruction, tensor completion and low rank.
+My name is Sheng Mai (麦晟), I just finished my Msc Cognitive Neuroscience at University College London and supervised by Prof [Sarah Garfinkel](https://www.ucl.ac.uk/icn/sarah-garfinkel)
 
 ## Education 
 
-Ph.D candidate, 2022 - now, School of Electronics and Information Engineering, Harbin Institute of Technology, Harbin, China
+MSc , 2020 - 2022, Cognitive Neuroscience, University College London, London, UK
 
-M.S., 2020 - 2022, School of Electronics and Information Engineering, Harbin Institute of Technology, Harbin, China
+B.S., 2017 - 2020, School of Information science and Engineering, University of Essex, Essex, UK
 
-B.S., 2016 - 2020, School of Information science and Engineering, Harbin Institute of Technology, Weihai, China
+Foundation, 2016 - 2017, Social science, University of Warwick, Warwick, UK
+
+CIE A-level: Mathematics (A*), Psychology (b), Self-taught, China
 
 ## Publications
 
-1. **Zhang, Yinghao**, and Yue Hu. "Dynamic Cardiac MRI Reconstruction Using Combined Tensor Nuclear Norm and Casorati Matrix Nuclear Norm Regularizations." *2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)*. IEEE, 2022. [link](https://ieeexplore.ieee.org/abstract/document/9761409) [code avaliable](https://github.com/yhao-z/TMNN)
-2. **Zhang, Yinghao**, Peng Li, and Yue Hu. "Dynamic MRI using Learned Transform-based Deep Tensor Low-Rank Network (DTLR-Net)." arXiv preprint arXiv:2206.00850 (2022). [link](https://arxiv.org/abs/2206.00850)
-3. **Zhang, Yinghao**, and Yue Hu. "T $^ 2$ LR-Net: An Unrolling Reconstruction Network Learning Transformed Tensor Low-Rank prior for Dynamic MR Imaging." arXiv preprint arXiv:2209.03832 (2022). [link](https://arxiv.org/abs/2209.03832)
+1. **Sheng, Mai**. "Electrophysiological mechanisms in neurodegenerative disorders and role of non-pharmacological therapies in improving cognitive symptoms." arXiv preprint arXiv:2206.00850 (2022). [link](https://arxiv.org/abs/2206.00850)
 
-## My GitHub repositories about MRI
+## My work
+ Mechanisms of game addiction in brain
+ It is part of my courswork during my master at UCL.
+ 
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LXbxsOTjcqo" title="YouTube video player" fameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* [dMRI data](https://github.com/yhao-z/dMRI-Data). (dMRI means Dynamic Magnetic Resonance Imaging, which is inherent a 3 or high-dimensional images. )
-* [dMRI utilities](https://github.com/yhao-z/dMRI-utils) : Hermite symmetric FFT and IFFT, calculating SNR and PSNR codes.
-* [TMNN](https://github.com/yhao-z/TMNN) : The code of the conference paper "Dynamic Cardiac MRI Reconstruction Using Combined Tensor Nuclear Norm and Casorati Matrix Nuclear Norm Regularizations."
-* [Learned low rank](https://github.com/yhao-z/Learned-Low-Rank): The easiest implementation of the deep unfolding network for MRI reconstruction.
+</p> 
 
-## Useful repositories about Harbin Institute of Technology
+## Research Experience
 
-* [HIT thesis word template](https://github.com/yhao-z/HIT-thesis-template-word) is a word template for Harbin Institute of Technology thesis, just for undergraduates.
+Research on electrophysiology and neurofeedback in neurodegenerative diseases
+•	Sort out the progress of electrophysiological mechanisms of neurodegenerative disorders.
+•	Explore the relationship between neurons and glial cells during aging.
+•	Summarize and analyze the improvement of cognitive symptoms by non-pharmacological therapies.
 
+Depression and Adolescent Suicidal Tendency Prediction Research
+•	Differences and correlations analysis between suicide or depression and anhedonia, attachment, social support, and childhood abuse.
+•	Multiple regression analysis of measures before and after suicidal ideation and depression.
 
-[![Page Views Count](https://badges.toozhao.com/badges/01G2XYMD6XJQSGWSH5VBHJQS9N/blue.svg)](https://badges.toozhao.com/stats/01G2XYMD6XJQSGWSH5VBHJQS9N "Get your own page views count badge on badges.toozhao.com")
+Research on Heart Rate Variability for the prediction of psychotropic medication outcome and quality of life
+•	Data processing and analysising the relationship among the HRV, medication outcome and QoL.
+•	Summarize and report the potential prediction from HRV on medication outcome and QoL among the different psychiatric Disorders group.
+
+## Intern Experience
+Summer Psychological Volunteer Activities (Renmin University of China)                                              Beijing                      
+Volunteer; Psychological Counselor                                                                                                    7/2019 - 8/2019
+•	Engage in daily psychological consultation services and receive over 30 cases of psychological consultation and counseling.
+•	Analyze and complete psychological counseling reports; collect and process data of national projects
+
+Online Suicidal Mutual Aid Association (Chinese Mental Health Association)                                       Online
+Volunteer; Experimenter                                                                                                               12/2018 – 3/2019
+•	Conduct research of suicide risk assessment, interpersonal relationship theories and "action conception" framework.
+•	Offer structural guidance for volunteers, thus ensuring effective relief.
+•	
+Beijing Youth Mental Disease Counseling Center                                                                           Beijing
+Research assistant                                                                                                                     7/2018 – 8/2018
+•	Read books and articles related to contemporary adolescent mental illness, and finish reading reports;
+•	Interview and record over 20 internet addicted teenagers’ psychological conditions and provided appropriate suggestions; put information recorded into an investigation report for subsequent treatment.
+
+## Honnor 
+Excellent psychological service volunteer (Renmin University of China)      
+
+## Skills & Interests
+Languages: Fluent English, Native Mandarin and Cantonese.
+Technical Skills: SPSS and R; Image editing; Neuroimage analysis and extract features(fMRI); Human Electrophysiology recording and analysis (EEG); Questionnaire choose; Python; MATLAB
