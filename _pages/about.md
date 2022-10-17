@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is Sheng Mai (麦晟), I just finished my Msc Cognitive Neuroscience at University College London and supervised by Prof [Sarah Garfinkel](https://www.ucl.ac.uk/icn/sarah-garfinkel). I am looking for A Phd position in Neuroscience at UK or USA.
+My name is Sheng Mai (麦晟), I just finished my Msc Cognitive Neuroscience at University College London and supervised by Prof [Sarah Garfinkel](https://www.ucl.ac.uk/icn/sarah-garfinkel) and studied about Heart Rate Variability. I am looking for A Phd position in Neuroscience at UK or USA.
+
+I’m broadly interested in the intersection of deep learning and neuroscience. I am working on   and likely push it into market (funded). I have a good background in statistics and math in research anaylysis (e.g. Bayesian). I have research on theory of achievement emotion, interpersonal relationship theories， "action conception" framework,  neurodegenerative disorders.
+
 
 ## Education 
 
