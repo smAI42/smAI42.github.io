@@ -51,11 +51,11 @@ Research on Heart Rate Variability for the prediction of psychotropic medication
 ## Intern Experience
 Summer Psychological Volunteer Activities (Renmin University of China,2018)   
 
-**Volunteer; Psychological Counselor**
+**Psychological Counselor**
 
 Online Suicidal Mutual Aid Association (Chinese Mental Health Association,2019)
 
-**Volunteer; Experimenter**
+**Experimenter**
 
 Beijing Youth Mental Disease Counseling Center (Beijing,2018)
 
