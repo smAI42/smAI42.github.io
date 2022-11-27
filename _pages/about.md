@@ -25,8 +25,7 @@ CIE A-level: Mathematics (A*), Psychology (b), Self-taught, China
 
 ## Publications
 
-1. **Sheng, Mai**. "Electrophysiological mechanisms in neurodegenerative disorders and role of non-pharmacological therapies in improving cognitive symptoms." arXiv preprint arXiv:2206.00850 (2022). [link](https://arxiv.org/abs/2206.00850)
-
+1. **Sheng, Mai**. "Electrophysiological mechanisms in neurodegenerative disorders and role of non-pharmacological therapies in improving cognitive symptoms." (under review on FACETS)
 ## My work
 
 **Why do people addict to loot box ?**
