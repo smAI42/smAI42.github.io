@@ -15,6 +15,8 @@ I’m broadly interested in the intersection of deep learning and neuroscience. 
 
 ## Education 
 
+MicroMasters,2023-2023(expected), Statistics and Data Science, Massachusetts Institute of Technology, USA
+
 MSc, 2020 - 2022, Cognitive Neuroscience, University College London, London, UK
 
 B.S, 2017 - 2020, School of Information science and Engineering, University of Essex, Essex, UK
