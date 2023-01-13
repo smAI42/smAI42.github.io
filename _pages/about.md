@@ -34,12 +34,16 @@ CIE A-level: Mathematics (A*), Psychology (b), Self-taught, China
 
  Mechanisms of game addiction in brain. 
  It is part of my courswork during my master at UCL.
- 
+
 <center>
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LXbxsOTjcqo" title="Why do people addict to loot box ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 </center>
+
+ **[Overgrowth](https://ldjam.com/events/ludum-dare/52/overgrowth-1)**
+ 
+Design and programing on game Ludum Dare 52 (an 72-hour game jam competition )
 
 ## Research Experience
 
