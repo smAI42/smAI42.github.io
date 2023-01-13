@@ -71,4 +71,4 @@ Excellent psychological service volunteer (Renmin University of China)
 
 ## Skills & Interests
 Languages: Fluent English, Native Mandarin and Cantonese.
-Technical Skills: SPSS and R; Image editing; Neuroimage analysis and extract features(fMRI); Human Electrophysiology recording and analysis (EEG); Questionnaire choose; Python; MATLAB
+Technical Skills: SPSS and R; Image editing; Neuroimage analysis and extract features(fMRI); Human Electrophysiology recording and analysis (EEG); Questionnaire choose; Python; MATLAB; Unity3D
